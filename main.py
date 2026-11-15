@@ -47,4 +47,4 @@ async def userinfo(ctx: commands.Context, user: discord.User):
     await ctx.send(f'User found: {user_id} -- {username}\n{avatar}')
 
 
-bot.run("MTU3MTU0NTQ5MjI3MjQ0NzYxMA.GnfL0t.qFMIuFpRoOTM3mu0NloSUhsju9FtUwKuo8ICZc")
+bot.run("Secret Token")
